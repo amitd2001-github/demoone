@@ -1,0 +1,52 @@
+1. https://github.com/signup
+2. adeshpande@wiley.com
+3. Wiley$baby1
+4. Username : amitwileyedge
+5. Repository : amitwiley
+6. https://github.com/AmitWiley2001?tab=repositories
+
+
+https://github.com/orgs/wileysneha
+
+https://wiley-my.sharepoint.com/:f:/p/ysneha/EqqnIuH7pJ9AvRKFYvPnTZQBD5Zk5jRSA3EmJQlo7Iczmw
+
+https://wiley-my.sharepoint.com/personal/ysneha_wiley_com/_layouts/15/onedrive.aspx?ct=1672818747259&or=Teams%2DHL&ga=1&id=%2Fpersonal%2Fysneha%5Fwiley%5Fcom%2FDocuments%2FcodingActivityPrograms%2Fweek%2D1
+
+https://wiley-my.sharepoint.com/personal/ysneha_wiley_com/_layouts/15/onedrive.aspx?ct=1672818747259&or=Teams%2DHL&ga=1&id=%2Fpersonal%2Fysneha%5Fwiley%5Fcom%2FDocuments%2FcodingActivityPrograms%2FProblem%2DStatements
+
+https://classroom.github.com/assignment-invitations/8241546518217e09077f08ea6018c1d6/status
+---------------------------
+Username: amitd2001-github
+amitd_2001@yahoo.com
+Password: Github$baby1
+
+Amitd2001
+Github$baby1
+---------------------------
+git config --global --list
+git config --global user.name "AmitWiley2001"
+git config --add user.name "AmitWiley2001"
+git config --global user.email adeshpande@wiley.com
+git config --add user.email adeshpande@wiley.com
+
+AmitWiley2001
+Wiley$baby2
+https://github.com/AmitWiley2001?tab=repositories
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AmitWiley2001/amitwiley.git
+git push -u origin main
+-------------------------------
+https://download.eclipse.org/egit/updates/
+
+https://github.com/theacademy
+https://classroom.github.com/classrooms/44973657-c353-may2023
+
+eg https://classroom.github.com/a/YQBIqMDk
+https://classroom.github.com/a/YQBIqMDk
+===============================================
+https://classroom.github.com/classrooms/44973657-cohort-c353-may-2023
+https://classroom.github.com/classrooms/44973657-cohort-c353-may-2023/settings/invitations
